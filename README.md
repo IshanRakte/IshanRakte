@@ -28,7 +28,7 @@
 &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ishanrakte&show_icons=true&locale=en" alt="ishanrakte" /></p>
 &nbsp;
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanrakte&" alt="ishanrakte" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanrakte&" alt="ishanrakte" /></p>
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/ishanrakte.svg?style=social&label=Follow"></img>
