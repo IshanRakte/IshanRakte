@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/ishanrakte/ishanrakte/blob/main/hey there.gif" alt="Ishan Rakte" />
+</div>
 <h1 align="center">Hi 👋, I'm Ishan Rakte</h1>
 <h3 align="center">A METICULOUS AND ORGANIZED INDIVIDUAL WHO IS PASSIONATE ABOUT LEARNING NEW TECHNOLOGIES AND CODING.</h3>
 
