@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/IshanRakte/IshanRakte/blob/main/Hey%20there%20%F0%9F%91%8B%2C%20I'm%20Ishan%20Rakte.gif" alt="Ishan Rakte" />
+<img src="https://github.com/IshanRakte/IshanRakte/blob/main/Hey%20there%2C%20I'm%20Ishan%20Rakte.gif" alt="Ishan Rakte" />
   
 </div>
 <!-- <h1 align="center">Hi 👋, I'm Ishan Rakte</h1> -->
