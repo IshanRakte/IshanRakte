@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishanrakte&label=Profile%20views&color=00e6fe&style=flat" alt="ishanrakte" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanrakte&theme=onestar&title=MultiLanguage,Commits,Followers,Stars,Repositories" alt="ishanrakte" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanrakte&theme=onestar&title=MultiLanguage,Commits,Followers,Stars,Repositories,PullRequest" width="800" alt="ishanrakte" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Blockchain and Golang**
 
