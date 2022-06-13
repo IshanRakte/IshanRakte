@@ -5,9 +5,9 @@
 <!-- <h1 align="center">Hi 👋, I'm Ishan Rakte</h1> -->
 <h3 align="center">A METICULOUS AND ORGANIZED INDIVIDUAL WHO IS PASSIONATE ABOUT LEARNING NEW TECHNOLOGIES AND CODING.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishanrakte&label=Profile%20views&color=0e75b6&style=flat" alt="ishanrakte" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ishanrakte&label=Profile%20views&color=00e6fe&style=flat" alt="ishanrakte" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanrakte" alt="ishanrakte" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanrakte&theme=onestar&title=MultiLanguage,Commits,Followers,Stars,Repositories" alt="ishanrakte" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Blockchain and Golang**
 
