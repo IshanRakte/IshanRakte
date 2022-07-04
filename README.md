@@ -50,7 +50,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanrakte&count_private=true&theme=dark&show_icons=true&hide_border=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&card_width=3&line_height=40" />
   </a>
    <a href="https://github.com/ishanrakte/github-readme-stats">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ishanrakte&custom_title=Ishan%20Rakte%27s%20Contribution%20Graph&theme=react-dark&card_width=3&line_height=40" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ishanrakte&custom_title=Ishan%20Rakte%27s%20Contribution%20Graph&theme=react-dark&card_width=4&line_height=40&hide_border=true&count_private=true&show_icons=true&text_color=fff&icon_color=03e8fc&title_color=03e8fc&line=03e8fc" />
   </a>
 </div>
 <br/><br/>
